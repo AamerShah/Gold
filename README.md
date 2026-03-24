@@ -1,6 +1,6 @@
 # Gold
 
-##Gold 2023.1 (Zakaat Calculator).
+##Asset Inventory 2026.1 (Zakaat Calculator).
 
 ###Features:
 * Use as an asset inventory for the household.
