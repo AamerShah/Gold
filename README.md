@@ -1,7 +1,6 @@
-# File 1: Asset Inventory:
->Asset Inventory 2026.1 (Zakaat Calculator).
+# File 1: Asset Inventory 2026.1 (Zakaat Calculator).
 
-## Features:
+> Features:
 * Use as an asset inventory for the household.
 * Add various sources of income and various sources where money could be lying around digitally.
 * Calculate zakat in common but extraordinary circumstances, as in:
@@ -14,7 +13,8 @@ Important Note: The currency exchange rates are fetched online from two differen
 ---
 ---
 
-# 🪙 Gold Monitor — UAE Retail + Signal Engine
+# File 2: Gold Signal Tracker
+## 🪙 Gold Monitor — UAE Retail + Signal Engine
 
 > Real-time gold tracking + macro signal detection + Telegram alerts  
 > Built for UAE markets (AED/gram, 24K)
